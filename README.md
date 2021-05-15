@@ -11,7 +11,7 @@
 ### A little about me...
 ```python
 class Antonio:
-    def __init__(self,Name,Age,Location,Hobbies):
+    def __init__(self,Name,Age,Location,Hobbies,CurrentFocus):
         self.Name = "Antonio Hickey"
         self.Age = 21
         self.Location = "West Palm Beach, Florida"
@@ -23,7 +23,7 @@ class Antonio:
         frontEnd = ["React.js","CSS","HTML","JavaScript","SASS"]
         devOps = ["AWS","Docker🐳","Nginx","Git"]
         databases = ["mongo","MySQL","sqlite"]
-        misc = ["PineScript","Selenium","PyTorch","Plotly"]
+        misc = ["PineScript","Selenium","PyTorch","Flask"]
 ```
 
 ### 📈 My GitHub Statistics
