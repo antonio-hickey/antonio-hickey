@@ -8,7 +8,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-hickey.antonio-hickey)
 
-### A little more about me...
+### A little about me...
 ```python
 class Antonio:
     def __init__(self,Name,Age,Location,Hobbies):
@@ -34,10 +34,4 @@ class Antonio:
 ```
 
 ### 📈 My GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antonio-hickey&show_icons=true&theme=gotham" alt="antonio-hickey" />
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=antonio-hickey&show_icons=true&theme=gotham" alt="antonio-hickey" />
