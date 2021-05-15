@@ -1,6 +1,6 @@
 <H2> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Antonio Hickey!</H2>
 <img align='right' src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif">
-<p><em>Data Science and Software Engineer Student</p></em>
+<p><em>Data Science and Software Engineer Student</em></p>
 [![Twitter Follow](https://img.shields.io/twitter/follow/QuantsGambit?label=Follow)](https://twitter.com/intent/follow?screen_name=QuantsGambit)
 ![GitHub followers](https://img.shields.io/github/followers/antonio-hickey?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-hickey.antonio-hickey)
