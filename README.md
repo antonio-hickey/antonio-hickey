@@ -24,13 +24,6 @@ class Antonio:
         devOps = ["AWS","Docker🐳","Nginx","Git"]
         databases = ["mongo","MySQL","sqlite"]
         misc = ["PineScript","Selenium","PyTorch","Plotly"]
-    
-    def Goals_for_2021():
-        Goal_1 = "Finish gDash beta"
-        Goal_2 = "Finish QG-Terminal beta"
-        Goal_3 = "Learning NLP Algorithims"
-        Goal_4 = "Learning More Web Development"
-        Goal_5 = "Contribute To More Open Source Projects"
 ```
 
 ### 📈 My GitHub Statistics
