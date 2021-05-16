@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/antonio-hickey?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-hickey.antonio-hickey)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@antonio-hickey/)](https://medium.com/@antonio-hickey)
+[![Medium Badge](https://img.shields.io/badge/-@antonio-hickey-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@antonio-hickey/)](https://medium.com/@antonio-hickey)
 
 ### A little about me...
 ```python
