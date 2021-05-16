@@ -7,6 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/antonio-hickey?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-hickey.antonio-hickey)
+![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ### A little about me...
 ```python
