@@ -1,13 +1,13 @@
 <img align='right' src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif" width="250">
 
-<H2> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Antonio Hickey!</H2>
-<p><em>Data Science and Software Engineer Student</em></p>
+<H2> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></H2>
+<p><em>Antonio Hickey, Data Science and Software Engineer Student</em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/QuantsGambit?label=Follow)](https://twitter.com/intent/follow?screen_name=QuantsGambit)
 ![GitHub followers](https://img.shields.io/github/followers/antonio-hickey?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-hickey.antonio-hickey)
-![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+<a target="_blank"href="https://antonio-hickey.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ### A little about me...
 ```python
