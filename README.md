@@ -4,10 +4,10 @@
 <p><em>Antonio Hickey, Data Science and Software Engineer Student</em></p>
 
 <p>
-[![Twitter Follow](https://img.shields.io/twitter/follow/QuantsGambit?label=Follow)](https://twitter.com/intent/follow?screen_name=QuantsGambit)
-![GitHub followers](https://img.shields.io/github/followers/antonio-hickey?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=antonio-hickey.antonio-hickey)
+    <a target="_blank"href="https://twitter.com/intent/follow?screen_name=QuantsGambit"><img src="https://img.shields.io/twitter/follow/QuantsGambit?label=Follow" /></a>
+    <a>
+        <img src="https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social">
+    </a>
     <a target="_blank"href="https://medium.com/@antonio-hickey"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
