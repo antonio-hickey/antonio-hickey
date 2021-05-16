@@ -8,7 +8,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=antonio-hickey.antonio-hickey)
 <p>
-    <a target="_blank"href="https://medium.com/@antonio-hickey"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a target="_blank"href="https://medium.com/@antonio-hickey"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
 ### A little about me...
