@@ -4,7 +4,6 @@
 <p><em>Antonio Hickey, Data Science and Software Engineer Student</em></p>
 
 <p>
-    <a target="_blank"href="https://twitter.com/intent/follow?screen_name=QuantsGambit"><img src="https://img.shields.io/twitter/follow/QuantsGambit?label=Follow" /></a>
     <a>
         <img src="https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social">
     </a>
