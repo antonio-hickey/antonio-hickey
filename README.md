@@ -15,7 +15,7 @@ class Antonio:
         self.Name = "Antonio Hickey"
         self.Age = 21
         self.Location = "West Palm Beach, Florida"
-        self.Hobbies = ["Art","Financial Markets","Macro Economics","Geopolitics","Learning New Things"]
+        self.Hobbies = ["Art","Financial Markets","Macro Economics","Skateboarding","Learning New Things"]
         self.CurrentFocus = "Data Science"
 
     def Technologies():
