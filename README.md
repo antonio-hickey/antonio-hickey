@@ -22,7 +22,7 @@ class Antonio:
         backEnd = ["Python","Java","JavaScript","GO"]
         frontEnd = ["React.js","CSS","HTML","JavaScript"]
         devOps = ["AWS","Docker🐳","Nginx","Git"]
-        databases = ["mongo","MySQL","sqlite"]
+        databases = ["mongo","MySQL","sqlite","DynamoDB"]
         misc = ["PineScript","Selenium","PyTorch","Flask"]
 ```
 
