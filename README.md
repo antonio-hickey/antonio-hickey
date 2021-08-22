@@ -25,6 +25,4 @@ class Antonio:
         databases = ["mongo","MySQL","sqlite","DynamoDB"]
         misc = ["PineScript","Selenium","PyTorch","Flask"]
 ```
-
-### 📈 My GitHub Statistics
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=antonio-hickey&show_icons=true&theme=gotham" alt="antonio-hickey" />
