@@ -1,5 +1,4 @@
 <H2> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></H2>
-<p><em>Antonio Hickey, Data Science and Software Engineer Student</em></p>
 
 <p>
     <a>
