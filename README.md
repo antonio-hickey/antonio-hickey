@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social">
     </a>
     <a target="_blank"href="https://medium.com/@antonio-hickey"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=?style=flat&logo=medium&logoColor=white" /></a>
-    <a><img src=https://img.shields.io/badge/Send%20Tip%20Via%20XMR-47piAitS3GiizBzZGywkyM7AEk5pnUGdYCCppXniARzoTuZ1fCSEiAYS1zPzdCdNuoC9wHVphYWJihTjyBesyEid5cojbZj-brightgreen /></a>
+    <a><img src=https://img.shields.io/badge/Send%20Tip%20Via%20XMR-47piAitS3GiizBzZGywkyM7AEk5pnUGdYCCppXniARzoTuZ1fCSEiAYS1zPzdCdNuoC9wHVphYWJihTjyBesyEid5cojbZj-blue /></a>
 </p>
 
 ### A little about me...
