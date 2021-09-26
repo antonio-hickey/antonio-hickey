@@ -26,7 +26,9 @@ class Antonio:
         misc = ["PineScript","Selenium","PyTorch","Flask"]
 ```
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=antonio-hickey&show_icons=true&theme=dark" alt="antonio-hickey" />
+ <p>
  <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> </a>
  <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </a>
  <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> </a>
  <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> </a>
+ </p>
