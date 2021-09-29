@@ -20,7 +20,7 @@ class Antonio:
 
     def Technologies():
         backEnd = ["Python","Node.js"]
-        frontEnd = ["React.js","CSS","HTML","JavaScript"]
+        frontEnd = ["React.js","JavaScript"]
         devOps = ["AWS","Docker🐳","Git"]
         databases = ["MySQL","MongoDB","DynamoDB"]
 ```
