@@ -16,14 +16,13 @@ class Antonio:
         self.Age = 22
         self.Location = "West Palm Beach, Florida"
         self.Hobbies = ["Art","Financial Markets","Cyber Security","Learning New Things"]
-        self.CurrentFocus = "Data Science"
+        self.Learning = "Data Science"
 
     def Technologies():
-        backEnd = ["Python","Java","JavaScript","GO"]
+        backEnd = ["Python","Node.js"]
         frontEnd = ["React.js","CSS","HTML","JavaScript"]
-        devOps = ["AWS","Docker🐳","Nginx","Git"]
-        databases = ["mongo","MySQL","sqlite","DynamoDB"]
-        misc = ["PineScript","Selenium","PyTorch","Flask"]
+        devOps = ["AWS","Docker🐳","Git"]
+        databases = ["MySQL","MongoDB","DynamoDB"]
 ```
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=antonio-hickey&show_icons=true&theme=dark" alt="antonio-hickey" />
  <p>
