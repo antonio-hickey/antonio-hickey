@@ -15,14 +15,14 @@ class Antonio:
         self.Name = "Antonio Hickey"
         self.Age = 22
         self.Location = "West Palm Beach, Florida"
-        self.Hobbies = ["Art","Financial Markets","Cyber Security","Learning New Things"]
+        self.Hobbies = ["Art", "Financial Markets", "Cyber Security", "Learning New Things"]
         self.Learning = "Data Science"
 
     def Technologies(self):
-        backEnd = ["Python","Node.js"]
-        frontEnd = ["React.js","JavaScript"]
-        devOps = ["AWS","Docker🐳","Git"]
-        databases = ["MySQL","MongoDB","DynamoDB"]
+        backEnd = ["Python", "Node.js"]
+        frontEnd = ["React.js", "JavaScript"]
+        devOps = ["AWS", "Docker🐳", "Git"]
+        databases = ["MySQL", "MongoDB", "DynamoDB"]
 ```
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=antonio-hickey&show_icons=true&theme=dark" alt="antonio-hickey" />
  <p>
