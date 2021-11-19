@@ -11,14 +11,14 @@
 ### A little about me...
 ```python
 class Antonio:
-    def __init__(self,Name,Age,Location,Hobbies,CurrentFocus):
+    def __init__(self, Name: str, Age: int, Location: str, Hobbies: list[str], CurrentFocus[str]):
         self.Name = "Antonio Hickey"
         self.Age = 22
         self.Location = "West Palm Beach, Florida"
         self.Hobbies = ["Art","Financial Markets","Cyber Security","Learning New Things"]
         self.Learning = "Data Science"
 
-    def Technologies():
+    def Technologies(self):
         backEnd = ["Python","Node.js"]
         frontEnd = ["React.js","JavaScript"]
         devOps = ["AWS","Docker🐳","Git"]
