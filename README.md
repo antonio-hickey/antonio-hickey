@@ -11,7 +11,7 @@
 ### A little about me...
 ```python
 class Antonio:
-    def __init__(self, Name: str, Age: int, Location: str, Hobbies: list[str], CurrentFocus: str):
+    def __init__(self):
         self.Name = "Antonio Hickey"
         self.Age = 22
         self.Location = "West Palm Beach, Florida"
