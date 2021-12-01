@@ -12,16 +12,16 @@
 ```python
 class Antonio:
     def __init__(self):
-        self.Name = "Antonio Hickey"
-        self.Age = 22
-        self.Location = "West Palm Beach, Florida"
-        self.Hobbies = ["Art", "Financial Markets", "Cyber Security", "Learning New Things"]
-        self.Learning = "Data Science"
+        self.name = "Antonio Hickey"
+        self.age = 22
+        self.location = "West Palm Beach, Florida"
+        self.hobbies = ["Art", "Financial Markets", "Cyber Security", "Learning New Things"]
+        self.learning = "Data Science"
 
     def Technologies(self):
-        backEnd = ["Python", "Node.js"]
-        frontEnd = ["React.js", "JavaScript"]
-        devOps = ["AWS", "Docker🐳", "Git"]
+        back_end = ["Python", "Node.js"]
+        front_end = ["React.js", "JavaScript"]
+        dev_ops = ["AWS", "Docker🐳", "Git"]
         databases = ["MySQL", "MongoDB", "DynamoDB"]
 ```
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=antonio-hickey&show_icons=true&theme=dark" alt="antonio-hickey" />
