@@ -3,8 +3,9 @@
 <p>
     <a>
         <img src="https://img.shields.io/github/stars/antonio-hickey?affiliations=OWNER%2CCOLLABORATOR&style=social">
+        <img alt="Static Badge" src="https://img.shields.io/badge/antoniohickey.com-a?label=Website%3A&color=619391&link=https%3A%2F%2Fantoniohickey.com">
+        <img alt="Static Badge" src="https://img.shields.io/badge/contact%40antoniohickey.com-a?label=Email%3A&color=619391&link=https%3A%2F%2Fantoniohickey.com">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Check%20out%20my%20blog-d?color=619391&link=https%3A%2F%2Fantoniohickey.com%2Fblog%2F">
     </a>
-    <a target="_blank"href="https://medium.com/@antonio-hickey"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=?style=flat&logo=medium&logoColor=white" /></a>
     <a><img src=https://img.shields.io/badge/Send%20Tip%20Via%20XMR-47piAitS3GiizBzZGywkyM7AEk5pnUGdYCCppXniARzoTuZ1fCSEiAYS1zPzdCdNuoC9wHVphYWJihTjyBesyEid5cojbZj-blue /></a>
 </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=antonio-hickey&show_icons=true&theme=dark" alt="antonio-hickey" />
